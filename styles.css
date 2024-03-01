@@ -1,0 +1,23 @@
+
+.container{
+    background-color: rgb(180, 180, 230);
+}
+
+.card-header{
+    background-color: bisque;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.card-body{
+    text-align: center;
+    background-color: silver;
+}
+.card{
+    margin-bottom: 10px;
+}
+
+.weather-info{
+    background-color: goldenrod;
+}
